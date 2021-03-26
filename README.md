@@ -1,4 +1,4 @@
-# invalidate-cloudfront-source
+# lambda-invalidate-cloudfront-source
 
 This repository contains a lambda function that invalidates the source of a cloudfront distribuition from code pipeline.
 
